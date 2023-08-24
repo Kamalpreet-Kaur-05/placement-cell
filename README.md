@@ -8,4 +8,7 @@ This App built using EJS,MongoDB,ExpressJs,NodeJs and PassportJS.
 - Allocate and schedule interview with different companies and update their result status
 - Download reports of students in csv format
 
+**Setup:-**
+Run `npm install` to install required dependencies
+
 **Demo:-**https://placement-cell-palw.onrender.com
